@@ -1,4 +1,3 @@
 first text
 Second text from feature branch
-third text from feature branch
 Commit from feature-x third
